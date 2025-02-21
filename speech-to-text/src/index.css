@@ -1,0 +1,27 @@
+
+@import "tailwindcss";
+
+body {
+  font-family: 'Urbanist', sans-serif;
+  background-image: url('./assets/bg.img'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-family: 'Rubik Moonrocks', sans-serif;
+}
+
+/* @media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+} */
